@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Natthanan Ohm
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in new technologies and You
+- 🌱 I’m currently learning the basics of coding.
+- 💞️ I’m looking to collaborate on someone.
+- 📫 How to reach me Instagram at ni_ohm 
 
 <!---
-0948059091z/0948059091z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ohm/Natthanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
