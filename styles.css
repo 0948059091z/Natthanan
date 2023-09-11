@@ -1,0 +1,41 @@
+.blackpink {
+    border: solid rgb(237, 136, 176) 3px;
+}
+
+.bottom {
+    background-color: rgb(237, 34, 122);
+}
+
+.contact {
+    background-color: rgb(222, 9, 108);
+}
+
+.header {
+    background-color: bisque;
+}
+
+.middle {
+    background-color: palevioletred;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+body {
+    margin: 0;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+hr {
+    /* background-color: white; */
+    border-style: dotted none none;
+    /* height: 0; */
+    width: 30%;
+    border-color: grey;
+    border-width: 5px;
+    margin-bottom: 0;
+}
